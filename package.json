@@ -1,0 +1,22 @@
+{
+  "name": "twiterclient",
+  "version": "1.0.0",
+  "description": "TwitterClient",
+  "main": "MainApp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ko1sh1-dev/TwitterClient.git"
+  },
+  "author": "MainApp.java",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ko1sh1-dev/TwitterClient/issues"
+  },
+  "homepage": "https://github.com/Ko1sh1-dev/TwitterClient#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
