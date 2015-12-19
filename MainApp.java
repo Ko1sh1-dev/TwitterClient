@@ -12,6 +12,9 @@ public class MainApp extends JFrame {
     this.setLocation(60, 60);
     this.setResizable(true);
 
+    //this.getContentPane().add(new column());
+    this.getContentPane().add(new column(new Timeline(), new tlHeader()));
+
     this.setVisible(true);
   }
 
